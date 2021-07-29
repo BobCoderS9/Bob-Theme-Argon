@@ -3,13 +3,13 @@
 
 本主题由@BobS9开发并维护。
 
-
 赞助捐赠：
 
 TRC20-USDT: TBZE6pSJ8421h3yex8kmJWpiRC1jgj3bmS
 
 REC20-USDT：0x2fdD998aC6566eC27c3E9b4CAaB3B04b1111f0E1
 
+### 下载到theme目录过后要修改当前文件夹名为`bob-argon`，然后在后台选择主题bob-argon就行了
 
 
 ![](https://shige.group/such/pic.php/forum/pic/item/908fa0ec08fa513d147bb1682a6d55fbb3fbd9b7/mlike.jpg)
