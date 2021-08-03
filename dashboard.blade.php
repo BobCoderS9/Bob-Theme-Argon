@@ -7,12 +7,12 @@
     <link rel="icon" href="/theme/bob-argon/favicon.ico">
     <title>Bob-Argon</title>
     <link rel="stylesheet" href="https://unpkg.com/element-plus/lib/theme-chalk/index.css">
-    <link href="theme/bob-argon/css/app.ea8f34e4.css" rel="preload" as="style">
+    <link href="theme/bob-argon/css/app.b61a7603.css" rel="preload" as="style">
     <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="preload" as="style">
-    <link href="theme/bob-argon/js/app.5e63f182.js" rel="preload" as="script">
-    <link href="theme/bob-argon/js/chunk-vendors.9ed82961.js" rel="preload" as="script">
+    <link href="theme/bob-argon/js/app.1875956b.js" rel="preload" as="script">
+    <link href="theme/bob-argon/js/chunk-vendors.144c4ece.js" rel="preload" as="script">
     <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="stylesheet">
-    <link href="theme/bob-argon/css/app.ea8f34e4.css" rel="stylesheet">
+    <link href="theme/bob-argon/css/app.b61a7603.css" rel="stylesheet">
 </head>
 <body>
 <div id="app"></div>
@@ -31,7 +31,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
     }</script>
-<script src="theme/bob-argon/js/chunk-vendors.9ed82961.js"></script>
-<script src="theme/bob-argon/js/app.5e63f182.js"></script>
+<script src="theme/bob-argon/js/chunk-vendors.144c4ece.js"></script>
+<script src="theme/bob-argon/js/app.1875956b.js"></script>
 </body>
 </html>
