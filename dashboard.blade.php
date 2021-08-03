@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://unpkg.com/element-plus/lib/theme-chalk/index.css">
     <link href="theme/bob-argon/css/app.b61a7603.css" rel="preload" as="style">
     <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="preload" as="style">
-    <link href="theme/bob-argon/js/app.38090fb4.js" rel="preload" as="script">
+    <link href="theme/bob-argon/js/app.12b7c8f1.js" rel="preload" as="script">
     <link href="theme/bob-argon/js/chunk-vendors.144c4ece.js" rel="preload" as="script">
     <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="stylesheet">
     <link href="theme/bob-argon/css/app.b61a7603.css" rel="stylesheet">
@@ -32,6 +32,6 @@
         })();
     }</script>
 <script src="theme/bob-argon/js/chunk-vendors.144c4ece.js"></script>
-<script src="theme/bob-argon/js/app.38090fb4.js"></script>
+<script src="theme/bob-argon/js/app.12b7c8f1.js"></script>
 </body>
 </html>
