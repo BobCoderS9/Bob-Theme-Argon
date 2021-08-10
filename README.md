@@ -12,8 +12,7 @@ REC20-USDT：0x2fdD998aC6566eC27c3E9b4CAaB3B04b1111f0E1
 ### 下载到theme目录过后要修改当前文件夹名为`bob-argon`，然后在后台选择主题bob-argon就行了
 
 
-![](https://shige.group/such/pic.php/forum/pic/item/908fa0ec08fa513d147bb1682a6d55fbb3fbd9b7/mlike.jpg)
-
+![](https://shige.group/such/pic.php/forum/pic/item/cb8065380cd79123d9a3a4ccba345982b3b780c2/mlike.jpg)
 ![](https://shige.group/such/pic.php/forum/pic/item/060828381f30e924a46941875b086e061c95f7b3/mlike.jpg)
 
 ![](https://shige.group/such/pic.php/forum/pic/item/4a36acaf2edda3cc0528659616e93901203f92bc/mlike.jpg)
