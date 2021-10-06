@@ -7,12 +7,12 @@
     <link rel="icon" href="/theme/bob-argon/favicon.ico">
     <title>Bob-Argon</title>
     <link rel="stylesheet" href="https://unpkg.com/element-plus/lib/theme-chalk/index.css">
-    <link href="theme/bob-argon/css/app.a9dc9f17.css" rel="preload" as="style">
-    <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="preload" as="style">
-    <link href="theme/bob-argon/js/app.be63f6da.js" rel="preload" as="script">
-    <link href="theme/bob-argon/js/chunk-vendors.144c4ece.js" rel="preload" as="script">
-    <link href="theme/bob-argon/css/chunk-vendors.4f06f28f.css" rel="stylesheet">
-    <link href="theme/bob-argon/css/app.a9dc9f17.css" rel="stylesheet">
+    <link href="theme/Bob-Theme-Argon/css/app.27b31f9d.css" rel="preload" as="style">
+    <link href="theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="preload" as="style">
+    <link href="theme/Bob-Theme-Argon/js/app.b5eb06b2.js" rel="preload" as="script">
+    <link href="theme/Bob-Theme-Argon/js/chunk-vendors.46c7013e.js" rel="preload" as="script">
+    <link href="theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="stylesheet">
+    <link href="theme/Bob-Theme-Argon/css/app.27b31f9d.css" rel="stylesheet">
 </head>
 <body>
 <div id="app"></div>
@@ -31,7 +31,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
     }</script>
-<script src="theme/bob-argon/js/chunk-vendors.144c4ece.js"></script>
-<script src="theme/bob-argon/js/app.be63f6da.js"></script>
+<script src="theme/Bob-Theme-Argon/js/chunk-vendors.46c7013e.js"></script>
+<script src="theme/Bob-Theme-Argon/js/app.b5eb06b2.js"></script>
 </body>
 </html>
