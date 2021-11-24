@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://unpkg.com/element-plus/lib/theme-chalk/index.css">
     <link href="theme/Bob-Theme-Argon/css/app.e0a179ca.css" rel="preload" as="style">
     <link href="theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="preload" as="style">
-    <link href="theme/Bob-Theme-Argon/js/app.26e66ec7.js" rel="preload" as="script">
+    <link href="theme/Bob-Theme-Argon/js/app.7de39673.js" rel="preload" as="script">
     <link href="theme/Bob-Theme-Argon/js/chunk-vendors.46c7013e.js" rel="preload" as="script">
     <link href="theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="stylesheet">
     <link href="theme/Bob-Theme-Argon/css/app.e0a179ca.css" rel="stylesheet">
@@ -17,6 +17,14 @@
 <body>
 <div id="app"></div>
 <script>
+    window.CLIENT = {
+        'SSR': true,
+        'Clash': false,
+        'Shadowrocket': true,
+        'Surge': false,
+        'V2Ray': false,
+        'Surfboard': true,
+    };
     window.APP_DESCRIPTION = '{{$description}}';
     window.APP_NAME = '{{$title}}';
     const SCRIPT_ID = '{{$crisp_id}}'; // 填写Crisp_id即可开启crisp客服
@@ -32,6 +40,6 @@
         })();
     }</script>
 <script src="theme/Bob-Theme-Argon/js/chunk-vendors.46c7013e.js"></script>
-<script src="theme/Bob-Theme-Argon/js/app.26e66ec7.js"></script>
+<script src="theme/Bob-Theme-Argon/js/app.7de39673.js"></script>
 </body>
 </html>
