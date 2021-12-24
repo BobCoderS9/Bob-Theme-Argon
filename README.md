@@ -3,13 +3,38 @@
 
 本主题由@BobS9开发并维护。
 
-赞助捐赠：
+### 安装
+下载到`theme`目录过后要修改当前文件夹名为`Bob-Theme-Argon`，然后在后台选择主题 【Bob-Theme-Argon】 就行了
 
-TRC20-USDT: TBZE6pSJ8421h3yex8kmJWpiRC1jgj3bmS
-
-REC20-USDT：0x2fdD998aC6566eC27c3E9b4CAaB3B04b1111f0E1
-
-### 下载到theme目录过后要修改当前文件夹名为`Bob-Theme-Argon`，然后在后台选择主题 Bob-Theme-Argon 就行了
+### 配置
+修改目录下的 `dashboard.blade.php` 文件
+```
+<script>
+    // 首页订阅客户端显示
+    window.CLIENT = {
+        'SSR': true,
+        'Clash': false,
+        'Shadowrocket': true,
+        'Surge': false,
+        'V2Ray': false,
+        'Surfboard': true,
+    };
+    window.APP_DESCRIPTION = '{{$description}}';
+    window.APP_NAME = '{{$title}}';
+    const SCRIPT_ID = '{{$crisp_id}}'; // 填写Crisp_id即可开启crisp客服
+    if (SCRIPT_ID) {
+        window.$crisp = [];
+        window.CRISP_WEBSITE_ID = SCRIPT_ID;
+        (function () {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.chat/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+    }
+</script>
+```
 
 
 ![](https://shige.group/such/pic.php/forum/pic/item/cb8065380cd79123d9a3a4ccba345982b3b780c2/mlike.jpg)
@@ -23,8 +48,3 @@ REC20-USDT：0x2fdD998aC6566eC27c3E9b4CAaB3B04b1111f0E1
 
 ![](https://shige.group/such/pic.php/forum/pic/item/8435e5dde71190effd324f69d91b9d16fcfa60bf/mlike.jpg)
 
-![](https://shige.group/such/pic.php/forum/pic/item/8644ebf81a4c510f970c3fac7759252dd52aa5b8/mlike.jpg)
-
-![](https://shige.group/such/pic.php/forum/pic/item/0b7b02087bf40ad1472f1a55402c11dfa8ecceb9/mlike.jpg)
-
-![](https://shige.group/such/pic.php/forum/pic/item/6159252dd42a2834606cebbd4cb5c9ea14cebfba/mlike.jpg)
