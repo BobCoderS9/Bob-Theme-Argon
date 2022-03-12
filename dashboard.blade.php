@@ -7,12 +7,12 @@
     <link rel="icon" href="/theme/Bob-Theme-Argon/favicon.ico">
     <title>Bob-Argon</title>
     <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css" />
-    <link href="/theme/Bob-Theme-Argon/css/app.8acf9b4b.css" rel="preload" as="style">
+    <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="preload" as="style">
     <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="preload" as="style">
-    <link href="/theme/Bob-Theme-Argon/js/app.edf62ccc.js" rel="preload" as="script">
+    <link href="/theme/Bob-Theme-Argon/js/app.2be960a3.js" rel="preload" as="script">
     <link href="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js" rel="preload" as="script">
     <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="stylesheet">
-    <link href="/theme/Bob-Theme-Argon/css/app.8acf9b4b.css" rel="stylesheet">
+    <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="stylesheet">
 </head>
 <body>
 <div id="app"></div>
@@ -42,6 +42,6 @@
     }
 </script>
 <script src="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js"></script>
-<script src="/theme/Bob-Theme-Argon/js/app.edf62ccc.js"></script>
+<script src="/theme/Bob-Theme-Argon/js/app.2be960a3.js"></script>
 </body>
 </html>
