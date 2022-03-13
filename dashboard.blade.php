@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css" />
     <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="preload" as="style">
     <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="preload" as="style">
-    <link href="/theme/Bob-Theme-Argon/js/app.2be960a3.js" rel="preload" as="script">
+    <link href="/theme/Bob-Theme-Argon/js/app.c5f64561.js" rel="preload" as="script">
     <link href="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js" rel="preload" as="script">
     <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="stylesheet">
     <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="stylesheet">
@@ -20,10 +20,10 @@
     // 首页订阅客户端显示
     window.CLIENT = {
         'SSR': true,
-        'Clash': false,
+        'Clash': true,
         'Shadowrocket': true,
-        'Surge': false,
-        'V2Ray': false,
+        'Surge': true,
+        'V2Ray': true,
         'Surfboard': true,
     };
     window.APP_DESCRIPTION = '{{$description}}';
@@ -42,6 +42,6 @@
     }
 </script>
 <script src="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js"></script>
-<script src="/theme/Bob-Theme-Argon/js/app.2be960a3.js"></script>
+<script src="/theme/Bob-Theme-Argon/js/app.c5f64561.js"></script>
 </body>
 </html>
