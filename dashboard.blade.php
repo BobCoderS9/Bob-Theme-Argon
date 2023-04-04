@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" href="/theme/Bob-Theme-Argon/favicon.ico">
-    <title>Bob-Argon</title>
-    <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css">
-    <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="preload" as="style">
-    <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="preload" as="style">
-    <link href="/theme/Bob-Theme-Argon/js/app.ae8c4347.js" rel="preload" as="script">
-    <link href="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js" rel="preload" as="script">
-    <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.9f69bc1a.css" rel="stylesheet">
-    <link href="/theme/Bob-Theme-Argon/css/app.547f87bb.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="icon" href="favicon.ico">
+    <title>{{$title}}</title>
+    <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.cs   s">
+    <link href="/theme/Bob-Theme-Argon/css/app.0c02214a.css" rel="preload" as="style">
+    <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.dba84911.css" rel="preload" as="style">
+    <link href="/theme/Bob-Theme-Argon/js/app.2a99f232.js" rel="preload" as="script">
+    <link href="/theme/Bob-Theme-Argon/js/chunk-vendors.dac02230.js" rel="preload" as="script">
+    <link href="/theme/Bob-Theme-Argon/css/chunk-vendors.dba84911.css" rel="stylesheet">
+    <link href="/theme/Bob-Theme-Argon/css/app.0c02214a.css" rel="stylesheet">
 </head>
 <body>
 <div id="app"></div>
@@ -30,7 +30,7 @@
     window.APP_NAME = '{{$title}}';
 </script>
 {!! $theme_config['custom_html'] !!}
-<script src="/theme/Bob-Theme-Argon/js/chunk-vendors.82406648.js"></script>
-<script src="/theme/Bob-Theme-Argon/js/app.ae8c4347.js"></script>
+<script src="/theme/Bob-Theme-Argon/js/chunk-vendors.dac02230.js"></script>
+<script src="/theme/Bob-Theme-Argon/js/app.2a99f232.js"></script>
 </body>
 </html>

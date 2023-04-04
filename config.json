@@ -1,0 +1,79 @@
+{
+    "name": "Bob-Theme-Argon",
+    "description": "Bob`s Theme Argon",
+    "version": "1.7.3",
+    "images": "https://images.unsplash.com/photo-1515405295579-ba7b45403062?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+    "configs": [
+        {
+            "label": "SSR",
+            "placeholder": "SSR订阅开启/关闭",
+            "field_name": "client_ssr",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        },
+        {
+            "label": "Clash",
+            "placeholder": "Clash订阅开启/关闭",
+            "field_name": "client_clash",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        },
+        {
+            "label": "Shadowrocket",
+            "placeholder": "Shadowrocket订阅开启/关闭",
+            "field_name": "client_shadowrocket",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        },
+        {
+            "label": "Surge",
+            "placeholder": "Surge订阅开启/关闭",
+            "field_name": "client_surge",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        },
+        {
+            "label": "V2Ray",
+            "placeholder": "V2Ray订阅开启/关闭",
+            "field_name": "client_v2ray",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        },
+        {
+            "label": "Surfboard",
+            "placeholder": "Surfboard订阅开启/关闭",
+            "field_name": "client_surfboard",
+            "field_type": "select",
+            "select_options": {
+                "true": "开启",
+                "false": "关闭"
+            },
+            "default_value": "true"
+        }, {
+            "label": "自定义页脚HTML",
+            "placeholder": "可以实现客服JS代码的加入等",
+            "field_name": "custom_html",
+            "field_type": "textarea"
+        }
+    ]
+}
