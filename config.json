@@ -49,8 +49,8 @@
             "default_value": "true"
         },
         {
-            "label": "V2Ray",
-            "placeholder": "V2Ray订阅开启/关闭",
+            "label": "通用",
+            "placeholder": "通用订阅开启/关闭",
             "field_name": "client_v2ray",
             "field_type": "select",
             "select_options": {
